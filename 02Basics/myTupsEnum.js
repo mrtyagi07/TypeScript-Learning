@@ -1,0 +1,10 @@
+"use strict";
+// let user: (string | number | boolean)[] = ["vt", 7, true];
+exports.__esModule = true;
+var user;
+user = ["vaibhav", 7, false];
+var rgb = [255, 255, 255];
+var newUser = [7, "example"];
+newUser[1] = "Tyagi";
+newUser.push("hi");
+console.log(newUser);
