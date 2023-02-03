@@ -25,6 +25,6 @@ class Youtube implements TakePhoto, Story {
   ) {}
 
   createStory(): void {
-    console.log("Hi Youtube!");
+    console.log("Hi Youtube is here!");
   }
 }

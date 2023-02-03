@@ -14,6 +14,6 @@ class Youtube {
         this.short = short;
     }
     createStory() {
-        console.log("Hi Youtube!");
+        console.log("Hi Youtube is here!");
     }
 }
